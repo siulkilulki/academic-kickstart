@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Podstawy programowania 
-summary: Grupa nr 11 i nr 15
+summary: Grupa nr 11 (1CE) i nr 15 (1CA)
 weight: 1
 
 # Page metadata.
@@ -18,6 +18,6 @@ menu:
     weight: 1
 ---
 
-## [Grupa nr 11](files/oceny-grupa-11.tsv)
-## [Grupa nr 15](files/oceny-grupa-15.tsv)
+## [Grupa nr 11 (1CE)](files/oceny-grupa-11.tsv)
+## [Grupa nr 15 (1CA)](files/oceny-grupa-15.tsv)
 

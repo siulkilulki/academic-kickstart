@@ -1,5 +1,5 @@
 ---
-title: Zajęcia
+title: Zajęcia 1
 linktitle: Tips 1-2
 toc: true
 type: docs

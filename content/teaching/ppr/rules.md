@@ -14,11 +14,9 @@ menu:
 weight: 20
 mathjax: ture
 ---
-### Uwaga
-Zasady powinny się ukształtować w najbliższym tygodniu, to znaczy, że do następnych zajęć mogą się jeszcze zmienić.
 
 ## Punktacja
-* 40% kolokwium
+* 40% dwa kolokwia
     * kolokwium przy komputerach
     * zadania do rozwiązania na adjule.pl
 * 60% zadania z adjule.pl
