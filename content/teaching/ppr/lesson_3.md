@@ -35,5 +35,5 @@ mathjax: ture
 * Parsowanie Markdown'a
   * w puli do zdobycia jest 10 punktów
   * każdy kto poprawnie rozwiąże zadanie otrzyma $max(1, \frac{10}{liczba\\_poprawnych\\_rozwiazan})$ punktów zaokrąglonych do najbliższej liczby całkowitej
-  * wejście [plik 1](https://github.com/siulkilulki/academic-kickstart/tree/master/content/teaching/ppr/files/lesson_2.md), [plik_2](https://github.com/siulkilulki/academic-kickstart/tree/master/content/teaching/ppr/files/lesson_3.md)
+  * wejście [plik 1](https://github.com/siulkilulki/academic-kickstart/blob/master/content/teaching/ppr/lesson_2.md), [plik_2](https://github.com/siulkilulki/academic-kickstart/blob/master/content/teaching/ppr/lesson_3.md)
   * [wyjście](https://github.com/siulkilulki/academic-kickstart/tree/master/content/teaching/ppr/files/files/zadania-1ca.tsv)
