@@ -20,7 +20,7 @@ mathjax: ture
 * https://eduwiki.wmi.amu.edu.pl/pms/ppr/c/datatypes
 * https://eduwiki.wmi.amu.edu.pl/pms/ppr/c/functions
 
-### Zadania z C/C++ do 24 listopada:
+### Zadania z C/C++ do 24 października:
 <!--24.10.2019-->
 * Apples and oranges [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr2a) [1CE] (https://adjule.pl/groups/ppr1ca2019/problems/ppr2a)
 * Ciągi liczb [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr5) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/ppr5)
