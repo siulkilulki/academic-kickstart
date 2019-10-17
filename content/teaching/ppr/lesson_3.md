@@ -24,7 +24,7 @@ mathjax: ture
 <!--24.10.2019 c,c++-->
 * Apples and oranges [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr2a) [1CE] (https://adjule.pl/groups/ppr1ca2019/problems/ppr2a)
 * Ciągi liczb [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr5) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/ppr5)
-* Big boom [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr10a) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/ppr10a)
+* Big boom [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr10a) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/ppr10a) (należy napisać funkcję do wypisywania określonej liczby, określonych znaków)
 * Odwróć tablicę [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr_intro_10) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/ppr_intro_10)
 
 ### Zadania dodatkowe z C/C++ do 24 października do końca następnych zajęć:
