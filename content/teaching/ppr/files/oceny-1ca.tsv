@@ -1,28 +1,36 @@
-Student	Nick	Numer indeksu	Suma (001) c,c++	Monolit (ppr2) c,c++	Pierwszy if (if01) c,c++	Wartość bezwzględna (002) c,c++	Pierwsza pętla (ifpetla) c,c++	Max wzrostu (apr_wyk2-1) c,c++	Apples and oranges (ppr2a) c,c++	Ciągi liczb (ppr5) c,c++	Big boom! (ppr10a) c,c++	Odwróć tablicę (ppr_intro_10) c,c++	1, 10, 100, 1000... (003) c,c++	Suma
-brak	452710	brak	1	1	1	1	1	1	1	1	1	1	0	10
-Aleks Roszyk	AleksRoszyk	452726	1	1	1	1	1	1	1	1	1	1	1	11
-Andrei Strachynski	Andreistr1	452719	1	1	1	1	1	1	1	1	1	1	0	10
-Michał Krzysztof Feiler	ArchieT	444368	1	1	1	1	1	1	1	1	1	1	0	10
-Jakub Danilewicz	Danilewicz	452661	1	1	1	1	1	1	1	1	1	1	0	10
-Daria Moroz	DariaMoroz	452646	1	1	1	1	1	1	1	1	1	1	0	10
-Ernest Puchała	Ernest	452679	1	1	0	0	0	0	0	0	0	0	0	2
-Grzegorz Gapiński	GGapinski	407409	1	1	1	1	1	1	0	0	0	0	0	6
-Dominik Szady	Ikszad	452651	1	1	1	1	1	1	1	1	1	1	1	11
-Jakub Radowicz	JakubRadowiczUAM	452711	1	1	1	1	1	1	1	1	1	1	1	11
-brak	JedrzejBor	brak	0	0	0	0	0	0	1	0	0	0	0	1
-Kuba Jądrzak	KubaJadrzak	452671	1	1	1	1	1	1	1	1	1	1	1	11
-Mateusz Drabek	MateuszD	452634	1	1	1	1	1	1	1	1	1	1	1	11
-Michał Dudziak	Mihau	452662	1	1	1	1	1	1	1	1	1	1	0	10
-Natalia Wasiak	NataliaW.	brak	1	1	1	1	1	1	1	1	1	1	0	10
-Paulina Szyszko	PaulinaSzyszko	426818	1	1	1	1	1	1	1	1	1	1	0	10
-Eryk Ławniczak	eryk.law1	452663	1	1	1	1	1	1	1	1	1	1	1	11
-Konrad Jadwiżyc	konjad	brak	0	0	0	0	0	0	0	0	0	0	0	0
-Marianna Kempiak	markem67	448819	1	1	1	1	1	1	1	1	1	1	0	10
-Michalina Gaj	micgaj3	452690	1	1	1	1	1	1	1	1	0	0	0	8
-Michał Zmudziński	michal.zmudzinski	452657	1	1	1	1	1	1	1	1	1	1	1	11
-Michał Zaporski	michalzaporski	452633	1	1	1	1	1	1	1	1	1	1	1	11
-Paulina Stefaniuk	paulast99	452741	1	1	1	1	1	1	1	1	1	1	0	10
-Paulina Żelasko	pauzel	452713	1	1	1	1	1	1	1	1	1	1	0	10
-Sebastian Smołuch	ssmoluch	459313	1	1	1	1	1	1	1	0	0	0	0	7
-Michał Tecław	teciu	brak	1	1	1	1	1	1	0	0	0	0	0	6
-brak	yOlo	brak	1	1	1	1	1	1	1	1	1	1	0	10
+Student	Nick	Numer indeksu	Suma (001) c,c++	Monolit (ppr2) c,c++	Pierwszy if (if01) c,c++	Wartość bezwzględna (002) c,c++	Pierwsza pętla (ifpetla) c,c++	Max wzrostu (apr_wyk2-1) c,c++	Apples and oranges (ppr2a) c,c++	Ciągi liczb (ppr5) c,c++	Big boom! (ppr10a) c,c++	Odwróć tablicę (ppr_intro_10) c,c++	1, 10, 100, 1000... (003) c,c++	Rzutka gra 2 (ppr6) c,c+	Zestawienie (ppr7) c,c+	Wybory (ppr8) c,c+	Średnie (ppr10) c,c+	Pudełeczka (ppr12a) c,c+	Suma NWD (ppr11) c,c+	Osobistość (apr2) c,c+	Suma
+brak	452710	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	15
+Aleks Roszyk	AleksRoszyk	452726	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	17
+Andrei Strachynski	Andreistr1	452719	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	15
+Michał Krzysztof Feiler	ArchieT	444368	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	16
+Jakub Danilewicz	Danilewicz	452661	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	16
+Daria Moroz	DariaMoroz	452646	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	16
+Ernest Puchała	Ernest	452679	1	1	0	0	0	0	0	1	1	1	0	1	1	1	0	0	0	0	8
+Grzegorz Gapiński	GGapinski	407409	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	10
+brak	Harmin	brak	0.5	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0
+Dominik Szady	Ikszad	452651	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	18
+Jakub Radowicz	JakubRadowiczUAM	452711	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	17
+brak	JedrzejBor	brak	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1
+Kacper Biedka	Kacper_Biedka	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kuba Jądrzak	KubaJadrzak	452671	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	17
+Mateusz Drabek	MateuszD	452634	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	17
+Michał Harenda	Michal_Harenda	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Michał Dudziak	Mihau	452662	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	10
+Jola Blige	Miss_Spunky	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Natalia Wasiak	NataliaW.	452743	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	10
+Paulina Szyszko	PaulinaSzyszko	426818	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	16
+Radosław Czerwiec	Radoslaw_Czerwiec	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adrian Antkowiak	adrant3	452653	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	18
+brak	czerwcuu	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Eryk Ławniczak	eryk.law1	452663	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	17
+Konrad Jadwiżyc	konjad	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Krzysztof Bonecki	krzysztofB	brak	0.5	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0
+Marianna Kempiak	markem67	448819	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	15
+Michalina Gaj	micgaj3	452690	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	15
+Michał Zmudziński	michal.zmudzinski	452657	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	18
+Michał Zaporski	michalzaporski	452633	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	11
+Paulina Stefaniuk	paulast99	452741	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	15
+Paulina Żelasko	pauzel	452713	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	13
+Sebastian Smołuch	ssmoluch	459313	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	14
+Michał Tecław	teciu	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	10
+brak	yOlo	brak	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	1	12
