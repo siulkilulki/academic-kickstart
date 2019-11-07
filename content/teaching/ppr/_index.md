@@ -18,6 +18,6 @@ menu:
     weight: 1
 ---
 
-## [Grupa nr 11 (1CE)](files/oceny-1ce.tsv)
-## [Grupa nr 15 (1CA)](files/oceny-1ca.tsv)
+## [Grupa nr 15 (1CE)](files/oceny-1ce.tsv)
+## [Grupa nr 11 (1CA)](files/oceny-1ca.tsv)
 
