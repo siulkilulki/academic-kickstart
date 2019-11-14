@@ -17,7 +17,7 @@ mathjax: tur
 ---
 
 ### Zadania z C/C++ do 14 listopada
-<!--14.11.2019 c,c++-->
+<!--14.11.19 c,c++-->
 
 * [Odwrócone podciągi] (https://adjule.pl/groups/ppr1ca2019/problems/ppr7a)
 * [Zlicz największą] (https://adjule.pl/groups/ppr1ca2019/problems/ppr_intro_12)

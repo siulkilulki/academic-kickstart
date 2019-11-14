@@ -20,7 +20,7 @@ mathjax: tur
 * https://eduwiki.wmi.amu.edu.pl/pms/ppr/c/pointers
 
 ### Zadania z C/C++ do 7 listopada
-<!--07.11.2019 c,c++-->
+<!--07.11.19 c,c++-->
 * Rzutka gra 2 [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr6) [1CE] (https://adjule.pl/groups/ppr1ca2019/problems/ppr6)
 * Zestawienie [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr7) [1CE] (https://adjule.pl/groups/ppr1ca2019/problems/ppr7)
 * Wybory [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr8) [1CE] (https://adjule.pl/groups/ppr1ca2019/problems/ppr8)

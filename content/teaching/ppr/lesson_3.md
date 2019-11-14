@@ -21,14 +21,14 @@ mathjax: ture
 * https://eduwiki.wmi.amu.edu.pl/pms/ppr/c/functions
 
 ### Zadania z C/C++ do 24 października:
-<!--24.10.2019 c,c++-->
+<!--24.10.19 c,c++-->
 * Apples and oranges [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr2a) [1CE] (https://adjule.pl/groups/ppr1ca2019/problems/ppr2a)
 * Ciągi liczb [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr5) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/ppr5)
 * Big boom [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr10a) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/ppr10a) (należy napisać funkcję do wypisywania określonej liczby, określonych znaków)
 * Odwróć tablicę [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/ppr_intro_10) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/ppr_intro_10)
 
 ### Zadania dodatkowe z C/C++ do 24 października do końca następnych zajęć:
-<!--24.10.2019 c,c++-->
+<!--24.10.19 c,c++-->
 * 1, 10, 100, 1000... [1CA] (https://adjule.pl/groups/ppr1ca2019/problems/003) [1CE] (https://adjule.pl/groups/ppr1ce2019/problems/003)
   * w puli do zdobycia jest 10 punktów
   * każdy kto poprawnie rozwiąże zadanie otrzyma $max(1, \frac{10}{liczba\\_poprawnych\\_rozwiazan})$ punktów zaokrąglonych do najbliższej liczby całkowitej
