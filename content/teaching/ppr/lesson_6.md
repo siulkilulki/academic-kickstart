@@ -15,6 +15,8 @@ menu:
 weight: 700
 mathjax: tur
 ---
+### Dynamiczne zarządzanie pamięcią
+* [kod](files/dynamic_memory.c)
 
 ### Zadania z C/C++ do 21 listopada
 <!--21.11.19 c,c++-->
