@@ -1,32 +1,32 @@
 Student	Nick	Numer indeksu	Suma (001) c,c++	Monolit (ppr2) c,c++	Pierwszy if (if01) c,c++	Wartość bezwzględna (002) c,c++	Pierwsza pętla (ifpetla) c,c++	Max wzrostu (apr_wyk2-1) c,c++	Apples and oranges (ppr2a) c,c++	Ciągi liczb (ppr5) c,c++	Big boom! (ppr10a) c,c++	Odwróć tablicę (ppr_intro_10) c,c++	1, 10, 100, 1000... (003) c,c++	Rzutka gra 2 (ppr6) c,c+	Zestawienie (ppr7) c,c+	Wybory (ppr8) c,c+	Średnie (ppr10) c,c+	Pudełeczka (ppr12a) c,c+	Suma NWD (ppr11) c,c+	Osobistość (apr2) c,c+	Odwrócone podciągi (ppr7a) c,c++	Zlicz największą (ppr_intro_12) c,c++	Sortowanie przez wybieranie (selection_sort) c,c++	Silnia rekurencyjna (apr1cdf2011_3_1) c,c++	Silnie (ppr13) c,c++	Liczby Fibonacciego (ppr-fib) c,c++	Króliki (ppr14) c,c++	Rytuał (ppr16) c,c++	Liczba Roku (ppr17) c,c++	Palindromy (ppr18) c,c++	Spamer (ppr19) c,c++	Suma
-Marcin Czerniak	452629	452629	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	24
-brak	452630	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	1	1	0	17
-Bartłomiej Grochowski	452645	452645	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	0	0	0	0	0	0	19
-Damian Judek	452665	452665	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	23.5
-Łukasz Traskowski	452680	452680	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	16
-Katsiaryna Laptsionak	452681	452681	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	16
+Marcin Czerniak	452629	452629	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	28
+brak	452630	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	21
+Bartłomiej Grochowski	452645	452645	1	1	1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	25
+Damian Judek	452665	452665	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	28.5
+Łukasz Traskowski	452680	452680	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	22
+Katsiaryna Laptsionak	452681	452681	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0	1	1	1	1	1	0	1	1	1	1	1	21
 Bartosz Wawrzyniak	452698	452698	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	1	1	1	1	1	1	1	1	26
 Jakub Andrzejewski	452700	452700	1	1	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	7.0
-Jakub Klupieć	452701	452701	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	17
-Michał Szczygieł	452709	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	14
-brak	452710	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	0	0	23
-Maria Nowaczyk	452714	452714	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	0	1	1	1	1	1	0	0	1	0	0	0	17
-Jakub Brodowiak	452723	452723	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	16
-Jan Majchrzycki	452731	452731	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	22.5
+Jakub Klupieć	452701	452701	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	22
+Michał Szczygieł	452709	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	1	1	1	0	17
+brak	452710	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	27
+Maria Nowaczyk	452714	452714	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	0	1	1	1	1	1	1	1	1	1	0	1	21
+Jakub Brodowiak	452723	452723	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	22
+Jan Majchrzycki	452731	452731	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	28.5
 brak	452738	brak	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	0	0	0	1	0	0	1	1	0	1	0	0	0	0	16
-Mateusz Walas	452746	brak	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	0	0	0	0	0	20
-Tomasz Adamczyk	458903	458903	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	1	0	1	17
+Mateusz Walas	452746	brak	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	25
+Tomasz Adamczyk	458903	458903	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	21
 brak	458906	brak	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6
-Emil Gutkiewicz	459307	459307	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	0	0	0	0	1	0	0	0	0	0	18
+Emil Gutkiewicz	459307	459307	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0	0	1	0	0	0	0	0	20
 brak	AdamHacia	brak	1	1	0.5	1	0.5	0.5	0.5	1	1	0.5	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	26.0
 Karolina Tonak	Karolina_Tonak	452676	0.5	0.5	0.5	0.5	0.5	0.5	0.5	1	0.5	0.5	0.5	0.5	0	1	1	1	1	0.5	1	1	0	1	1	0	1	1	1	1	1	20.0
 Mateusz Szorc	TheRevanpl	452712	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5
 Adrian Antkowiak	adrant3	452653	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	28
-Dariusz Golomski	dargol	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	16
+Dariusz Golomski	dargol	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	21
 brak	flagmenca	452652	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	23
 brak	jasiu	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Zofia Machalska	s452635	452635	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	15
-Kacper Knuth	s452689	452689	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	24
-Zuzanna Witoch	s452692	452692	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	0	0	0	0	0	0	20
-Adam Skorupa	s452717	452717	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0	0	0	0	0	15
-Jan Nowakowski	sordlost	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	22
+Zofia Machalska	s452635	452635	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	21
+Kacper Knuth	s452689	452689	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	29
+Zuzanna Witoch	s452692	452692	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	1	25
+Adam Skorupa	s452717	452717	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	1	0	17
+Jan Nowakowski	sordlost	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	28
