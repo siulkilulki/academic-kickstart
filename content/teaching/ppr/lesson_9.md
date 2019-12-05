@@ -15,8 +15,8 @@ menu:
 weight: 1000
 ---
 
-### Ściągawka do poczytania
-https://eduwiki.wmi.amu.edu.pl/pms/ppr/c/syntax
+### Cheatsheet
+https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 
 ### Zadania z python'a do 12 grudnia:
 <!--12.12.19 python-->
