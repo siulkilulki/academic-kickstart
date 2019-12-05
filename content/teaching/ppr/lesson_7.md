@@ -16,7 +16,7 @@ weight: 800
 mathjax: tur
 ---
 ### Zadania z C/C++ do 28 listopada
-<!--21.11.19 c,c++-->
+<!--28.11.19 c,c++-->
 
 * [Kalkulator] (https://adjule.pl/groups/ppr1ca2019/problems/ppr21)
 * [Loteria] (https://adjule.pl/groups/ppr1ca2019/problems/ppr23)

@@ -16,7 +16,7 @@ weight: 900
 mathjax: tur
 ---
 ### Kolokwium z C/C++
-<!--21.11.19 c,c++-->
+<!--28.11.19 c,c++-->
 #### Zadania dla grupy 1CE
 * [Zadanie 1] (https://adjule.pl/groups/ppr1ce2019/problems/kol_1_2020)
 * [Zadanie 2] (https://adjule.pl/groups/ppr1ce2019/problems/kol_2_2020)
