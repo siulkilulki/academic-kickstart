@@ -18,4 +18,6 @@ weight: 1010
 ### Zadania z python'a do 19 grudnia:
 <!--19.12.19 python-->
 * Kolekcjoner stringów (https://adjule.pl/groups/ppr1ce2019/problems/kolekcjoner)
-<!-- * Big boom (https://adjule.pl/groups/ppr1ce2019/problems/ppr10a) -->
+* Książka telefoniczna (https://adjule.pl/groups/ppr1ce2019/problems/ksiazka)
+* Czy jest permutacją? (https://adjule.pl/groups/ppr1ce2019/problems/czy_permutacja)
+* Najdłuższy unikalny string (https://adjule.pl/groups/ppr1ce2019/problems/longest_uniq)
