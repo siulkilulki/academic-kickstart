@@ -20,9 +20,9 @@ https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 
 ### Zadania z python'a do 12 grudnia:
 <!--12.12.19 python-->
-* Wartość bezwględna (https://adjule.pl/groups/ppr1ce2019/problems/002) (użyć funkcji _abs_)
-* Pierwsza pętla (https://adjule.pl/groups/ppr1ce2019/problems/ifpetla)
-* Max wzrostu (https://adjule.pl/groups/ppr1ce2019/problems/apr_wyk2-1) (użyć funkcji max)
-* Ciągi liczb (https://adjule.pl/groups/ppr1ce2019/problems/ppr5)
-* Big boom (https://adjule.pl/groups/ppr1ce2019/problems/ppr10a)
-* Odwróć tablicę (https://adjule.pl/groups/ppr1ca2019/problems/ppr_intro_10) (użyć funkcji *reversed*)
+* [Wartość bezwględna] (https://adjule.pl/groups/ppr1ce2019/problems/002) (użyć funkcji _abs_)
+* [Pierwsza pętla] (https://adjule.pl/groups/ppr1ce2019/problems/ifpetla)
+* [Max wzrostu] (https://adjule.pl/groups/ppr1ce2019/problems/apr_wyk2-1) (użyć funkcji max)
+* [Ciągi liczb] (https://adjule.pl/groups/ppr1ce2019/problems/ppr5)
+* [Big boom] (https://adjule.pl/groups/ppr1ce2019/problems/ppr10a)
+* [Odwróć tablicę] (https://adjule.pl/groups/ppr1ca2019/problems/ppr_intro_10) (użyć funkcji *reversed*)
