@@ -1,0 +1,21 @@
+---
+title: Zajęcia 10
+linktitle: Tips 1-2
+toc: true
+type: docs
+date: "2019-10-02T00:00:00+01:00"
+draft: false
+menu:
+  ppr:
+    name: Zajęcia 10
+    parent: Zajęcia
+    weight: 110
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1010
+---
+
+### Zadania z python'a do 19 grudnia:
+<!--19.12.19 python-->
+* Kolekcjoner stringów (https://adjule.pl/groups/ppr1ce2019/problems/kolekcjoner)
+<!-- * Big boom (https://adjule.pl/groups/ppr1ce2019/problems/ppr10a) -->
