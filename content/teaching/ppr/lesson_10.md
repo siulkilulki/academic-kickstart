@@ -23,8 +23,9 @@ https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0
 * [słownik](https://docs.python.org/3.7/tutorial/datastructures.html#dictionaries)
 * [słownik metody](https://docs.python.org/3.7/library/stdtypes.html#dict)
 
-### Kod z zajęć
-* [kod](../files/dictionary_ex.py)
+### Kody z zajęć
+* [czytanie ze standardowego wejścia](../files/read.py)
+* [słowniki i zbiory](../files/dictionary_ex.py)
 
 ### Zadania z python'a do 19 grudnia:
 <!--19.12.19 python-->
