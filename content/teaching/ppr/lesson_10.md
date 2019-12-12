@@ -14,8 +14,17 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1010
 ---
-### Trochę więcej o "hash tables"
+### Trochę więcej o "hash tables" (dictionary w pythonie)
 https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0
+
+### Zbiory i słowniki w pythonie
+* [zbiór](https://docs.python.org/3.7/tutorial/datastructures.html#sets)
+* [zbiór metody](https://docs.python.org/3.7/library/stdtypes.html#set-types-set-frozenset)
+* [słownik](https://docs.python.org/3.7/tutorial/datastructures.html#dictionaries)
+* [słownik metody](https://docs.python.org/3.7/library/stdtypes.html#dict)
+
+### Kod z zajęć
+* [kod](../files/dictionary_ex.py)
 
 ### Zadania z python'a do 19 grudnia:
 <!--19.12.19 python-->
