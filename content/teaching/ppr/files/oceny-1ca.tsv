@@ -1,40 +1,40 @@
-Student	Nick	Numer indeksu	Suma (001) c,c++	Monolit (ppr2) c,c++	Pierwszy if (if01) c,c++	Wartość bezwzględna (002) c,c++	Pierwsza pętla (ifpetla) c,c++	Max wzrostu (apr_wyk2-1) c,c++	Apples and oranges (ppr2a) c,c++	Ciągi liczb (ppr5) c,c++	Big boom! (ppr10a) c,c++	Odwróć tablicę (ppr_intro_10) c,c++	1, 10, 100, 1000... (003) c,c++	Rzutka gra 2 (ppr6) c,c++	Zestawienie (ppr7) c,c++	Wybory (ppr8) c,c++	Średnie (ppr10) c,c++	Pudełeczka (ppr12a) c,c++	Suma NWD (ppr11) c,c++	Osobistość (apr2) c,c++	Odwrócone podciągi (ppr7a) c,c++	Zlicz największą (ppr_intro_12) c,c++	Sortowanie przez wybieranie (selection_sort) c,c++	Silnia rekurencyjna (apr1cdf2011_3_1) c,c++	Silnie (ppr13) c,c++	Liczby Fibonacciego (ppr-fib) c,c++	Króliki (ppr14) c,c++	Rytuał (ppr16) c,c++	Liczba Roku (ppr17) c,c++	Palindromy (ppr18) c,c++	Spamer (ppr19) c,c++	Kalkulator (ppr21) c,c++	Loteria (ppr23) c,c++	Trójkąt (ppr24) c,c++	Sito Eratostenesa (ppr28) c,c++	Qsort (ppr25) c,c++	Kolokwium zadanie 1 (kol_1_2020) c,c++	Kolokwium zadanie 2 (kol_2_2020) c,c++	Kolokwium zadanie 3 (kol_3_2020) c,c++	Suma	Kolokwium
-brak	452710	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	32	2
-Adam Hącia	AdamHacia	444551	1	1	0.5	1	0.5	0.5	0.5	1	1	0.5	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	31.0	0
-Aleks Roszyk	AleksRoszyk	452726	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	34	3
-Andrei Strachynski	Andreistr1	452719	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	32	2.5
-Michał Krzysztof Feiler	ArchieT	444368	1	1	1	1	1	1	1	1	1	1	0	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	32.5	1
-Jakub Danilewicz	Danilewicz	452661	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	32	2.5
-Daria Moroz	DariaMoroz	452646	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	29	1
-Ernest Puchała	Ernest	452679	1	1	0	0	0	0	0	1	1	1	0	1	1	1	1	0.5	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	0	0	23.5	1
-Grzegorz Gapiński	GGapinski	407409	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	32	3
-brak	Harmin	brak	0.5	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0
-Dominik Szady	Ikszad	452651	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	34	3
-Jakub Radowicz	JakubRadowiczUAM	452711	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	34	2.5
-brak	JedrzejBor	brak	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	1	1	1	1	1	1	8	3
-Kacper Biedka	Kacper_Biedka	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Karolina Tonak	Karolina_Tonak	452676	0.5	0.5	0.5	0.5	0.5	0.5	0.5	1	0.5	0.5	0.5	0.5	1	1	1	1	1	0.5	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	26.0	0
-Kuba Jądrzak	KubaJadrzak	452671	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	32.5	3
-Mateusz Drabek	MateuszD	452634	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	33	3
-Michał Harenda	Michal_Harenda	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Michał Dudziak	Mihau	452662	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	33	3
-Jola Blige	Miss_Spunky	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Natalia Wasiak	NataliaW.	452743	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	32	1
-Paulina Szyszko	PaulinaSzyszko	426818	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	32	3
-Radosław Czerwiec	Radoslaw_Czerwiec	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Adrian Antkowiak	adrant3	452653	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	33	0
-brak	czerwcuu	brak	0	0.5	0.5	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.5	0
-Eryk Ławniczak	eryk.law1	452663	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	34	3
-brak	jasiu	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Konrad Jadwiżyc	konjad	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Krzysztof Bonecki	krzysztofB	brak	0.5	0	0.5	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.5	0
-Marianna Kempiak	markem67	448819	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	32	2
-Michalina Gaj	micgaj3	452690	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	32	2
-Michał Zmudziński	michal.zmudzinski	452657	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	34	3
-Michał Zaporski	michalzaporski	452633	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	34	3
-Paulina Stefaniuk	paulast99	452741	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	31	0
-Paulina Żelasko	pauzel	452713	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	0.5*	28	2.5
-Michał Gaik	qellq	362621	1	1	0	1	0	0	0	1	0	0	0	1	1	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0	13	0
-Sebastian Smołuch	ssmoluch	459313	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	0	0	0	0	1	0	1	28.5	2
-Michał Tecław	teciu	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0.5	0.5	0	0.5	0.5	0	0	0	0	0	0	1	0	0	0	0	1	0	0.5*	13.0	1.5
-brak	yOlo	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0.5*	33	1.5
+Student	Nick	Numer indeksu	Suma (001) c,c++	Monolit (ppr2) c,c++	Pierwszy if (if01) c,c++	Wartość bezwzględna (002) c,c++	Pierwsza pętla (ifpetla) c,c++	Max wzrostu (apr_wyk2-1) c,c++	Apples and oranges (ppr2a) c,c++	Ciągi liczb (ppr5) c,c++	Big boom! (ppr10a) c,c++	Odwróć tablicę (ppr_intro_10) c,c++	1, 10, 100, 1000... (003) c,c++	Rzutka gra 2 (ppr6) c,c++	Zestawienie (ppr7) c,c++	Wybory (ppr8) c,c++	Średnie (ppr10) c,c++	Pudełeczka (ppr12a) c,c++	Suma NWD (ppr11) c,c++	Osobistość (apr2) c,c++	Odwrócone podciągi (ppr7a) c,c++	Zlicz największą (ppr_intro_12) c,c++	Sortowanie przez wybieranie (selection_sort) c,c++	Silnia rekurencyjna (apr1cdf2011_3_1) c,c++	Silnie (ppr13) c,c++	Liczby Fibonacciego (ppr-fib) c,c++	Króliki (ppr14) c,c++	Rytuał (ppr16) c,c++	Liczba Roku (ppr17) c,c++	Palindromy (ppr18) c,c++	Spamer (ppr19) c,c++	Kalkulator (ppr21) c,c++	Loteria (ppr23) c,c++	Trójkąt (ppr24) c,c++	Sito Eratostenesa (ppr28) c,c++	Qsort (ppr25) c,c++	Kolokwium zadanie 1 (kol_1_2020) c,c++	Kolokwium zadanie 2 (kol_2_2020) c,c++	Kolokwium zadanie 3 (kol_3_2020) c,c++	Wartość bezwzględna (002) python	Pierwsza pętla (ifpetla) python	Max wzrostu (apr_wyk2-1) python	Ciągi liczb (ppr5) python	Big boom! (ppr10a) python	Odwróć tablicę (ppr_intro_10) python	Kolekcjoner stringów (kolekcjoner) python	Ksiazka telefoniczna (ksiazka) python	Czy jest permutacją? (czy_permutacja) python	Najdłuższy unikalny string (longest_uniq) python	Suma	Kolokwium
+brak	452710	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	32	2
+Adam Hącia	AdamHacia	444551	1	1	0.5	1	0.5	0.5	0.5	1	1	0.5	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	31.0	0
+Aleks Roszyk	AleksRoszyk	452726	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
+Andrei Strachynski	Andreistr1	452719	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	0	0	0	0	0	0	0	0	0	0	32	2.5
+Michał Krzysztof Feiler	ArchieT	444368	1	1	1	1	1	1	1	1	1	1	0	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	32.5	1
+Jakub Danilewicz	Danilewicz	452661	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	0	0	0	0	0	0	0	0	0	0	32	2.5
+Daria Moroz	DariaMoroz	452646	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	29	1
+Ernest Puchała	Ernest	452679	1	1	0	0	0	0	0	1	1	1	0	1	1	1	1	0.5	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	23.5	1
+Grzegorz Gapiński	GGapinski	407409	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	32	3
+brak	Harmin	brak	0.5	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.0	0
+Dominik Szady	Ikszad	452651	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
+Jakub Radowicz	JakubRadowiczUAM	452711	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	0	0	0	0	0	0	0	0	0	0	34	2.5
+brak	JedrzejBor	brak	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	8	3
+Kacper Biedka	Kacper_Biedka	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Karolina Tonak	Karolina_Tonak	452676	0.5	0.5	0.5	0.5	0.5	0.5	0.5	1	0.5	0.5	0.5	0.5	1	1	1	1	1	0.5	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	26.0	0
+Kuba Jądrzak	KubaJadrzak	452671	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	0	0	0	0	0	0	0	0	0	0	32.5	3
+Mateusz Drabek	MateuszD	452634	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	33	3
+Michał Harenda	Michal_Harenda	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Michał Dudziak	Mihau	452662	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	33	3
+Jola Blige	Miss_Spunky	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Natalia Wasiak	NataliaW.	452743	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	32	1
+Paulina Szyszko	PaulinaSzyszko	426818	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	32	3
+Radosław Czerwiec	Radoslaw_Czerwiec	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Adrian Antkowiak	adrant3	452653	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0
+brak	czerwcuu	brak	0	0.5	0.5	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.5	0
+Eryk Ławniczak	eryk.law1	452663	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
+brak	jasiu	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Konrad Jadwiżyc	konjad	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Krzysztof Bonecki	krzysztofB	brak	0.5	0	0.5	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.5	0
+Marianna Kempiak	markem67	448819	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	32	2
+Michalina Gaj	micgaj3	452690	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	32	2
+Michał Zmudziński	michal.zmudzinski	452657	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
+Michał Zaporski	michalzaporski	452633	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
+Paulina Stefaniuk	paulast99	452741	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0
+Paulina Żelasko	pauzel	452713	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	1	1	0.5*	0	0	0	0	0	0	0	0	0	0	28	2.5
+Michał Gaik	qellq	362621	1	1	0	1	0	0	0	1	0	0	0	1	1	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0
+Sebastian Smołuch	ssmoluch	459313	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	28.5	2
+Michał Tecław	teciu	brak	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0.5	0.5	0	0.5	0.5	0	0	0	0	0	0	1	0	0	0	0	1	0	0.5*	0	0	0	0	0	0	0	0	0	0	13.0	1.5
+brak	yOlo	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0.5*	0	0	0	0	0	0	0	0	0	0	33	1.5
