@@ -7,7 +7,7 @@ date: "2019-10-02T00:00:00+01:00"
 draft: false
 menu:
   ppr:
-    name: Zajęcia 10
+    name: Zajęcia 11
     parent: Zajęcia
     weight: 120
 
