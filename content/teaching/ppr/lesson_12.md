@@ -29,3 +29,9 @@ weight: 1030
 <!--23.01.20 python-->
 * [Najczęstsze słowo](https://adjule.pl/groups/ppr1ce2019/problems/kol_1_ca)
 * [Komiwojażer](https://adjule.pl/groups/ppr1ce2019/problems/kol_1_cg)
+
+### Propozycje na 30 stycznia:
+* Wstęp do programowania obiektowego
+* [Crawler](https://en.wikipedia.org/wiki/Web_crawler)
+* Prosty algorytm uczenia maszynowego (detekor spamu, predykcja cen aut itp.)
+* inne propozycje?
