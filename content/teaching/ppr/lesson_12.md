@@ -14,6 +14,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1030
 ---
+##### Kolokwium z python'a odbędzie się 23 stycznia
 ### Korelacja Pearson'a
 * [wzór](https://pl.wikipedia.org/wiki/Wsp%C3%B3%C5%82czynnik_korelacji_Pearsona)
 ###### Dla chętnych do poczytania i pogrania
