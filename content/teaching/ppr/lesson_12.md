@@ -22,13 +22,13 @@ weight: 1030
 
 ### Zadania z python'a do 16 stycznia:
 <!--16.01.20 python-->
-* [Korelacja Pearsona](https://adjule.pl/groups/ppr1ce2019/problems/kppr3)
-* [Lotto](https://adjule.pl/groups/ppr1ce2019/problems/ppr_macierze)
+* [Korelacja Pearsona](https://adjule.pl/groups/ppr1ce2019/problems/ppr_pearson)
+* [Lotto](https://adjule.pl/groups/ppr1ce2019/problems/kogn2) (poszukać w dokumentacji python'a 3)
 
 ### Zadania z python'a do 23 stycznia (zeszłoroczne kolokwium):
 <!--23.01.20 python-->
 * [Najczęstsze słowo](https://adjule.pl/groups/ppr1ce2019/problems/kol_1_ca)
-* [Komiwojażer](https://adjule.pl/groups/ppr1ce2019/problems/kol_1_cg)
+* [Komiwojażer](https://adjule.pl/groups/ppr1ce2019/problems/kol_4_cg)
 
 ### Propozycje na 30 stycznia:
 * Wstęp do programowania obiektowego
