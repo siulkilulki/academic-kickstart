@@ -36,4 +36,4 @@ weight: 1030
 * Wstęp do programowania obiektowego
 * [Crawler](https://en.wikipedia.org/wiki/Web_crawler)
 * Prosty algorytm uczenia maszynowego (detekor spamu, predykcja cen aut itp.)
-* inne propozycje?
+* inne propozycje? (do końca tygodnia do 12 stycznia możecie przesyłać na mojego maila, następnie zrobimy ankietę w której zadecyduje większość)
