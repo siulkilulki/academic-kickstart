@@ -22,12 +22,12 @@ weight: 1040
 * kod pisany w pythonie
 
 ### Punktacja za ligę
-* Bronze league - 5 punktów
-* Silver league - 10 punktów
-* Gold league - 15 punktów
+* Bronze league - 1 punkt
+* Silver league - 2 punkty
+* Gold league - 5 punktów
 
 ### Punktacja za miejsce (wśród grupy 1CA, 1CE)
-* Pierwsze miejsce - 10 punktów
+* Pierwsze miejsce - 8 punktów
 * Drugie miejsce - 5 punktów
 * Trzecie miejsce - 3 punkty
 * Od 4 do 10 miejsca - 1 punkt
