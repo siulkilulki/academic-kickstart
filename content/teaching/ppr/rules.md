@@ -22,7 +22,8 @@ mathjax: ture
 * 60% zadania z adjule.pl
     * 1 punkt za oddanie zadanie w terminie
     * 0.5 punkta za oddanie zadania po terminie
-* $score = 0.6 \times \frac{uzyskane\\_punkty\\_na\\_adjule}{liczba\\_zadan\\_na\\_adjule} + 0.4 \times \frac{punkty\\_z\\_kolokwium}{max\\_liczba\\_punktow} $
+* $score = 0.6 \times \frac{uzyskane\\_punkty\\_na\\_adjule + zad\\_dodatkowe}{liczba\\_zadan\\_na\\_adjule} + 0.4 \times \frac{punkty\\_z\\_kolokwium}{max\\_liczba\\_punktow} $
+    * punkty z zadan dodatkowych wliczaja się do ${uzyskane\\_punkty\\_na\\_adjule}$, ale nie wliczają się do ${liczba\\_zadan\\_na\\_adjule}$ (ich liczba nie zwiększa mianownika)
 
 ## Ocena końcowa
 * [90%, 100%] - bardzo dobry (5.0)
