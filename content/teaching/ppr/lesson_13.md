@@ -22,6 +22,7 @@ weight: 1040
 * kod pisany w pythonie
 * w profilu należy jako szkołę dodać _Adam Mickiewicz University in Poznań_
 * [Leaderboard dla UAM](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back/leaderboard?column=keyword&value=Adam%20Mickiewicz)
+* [Screenshot](https://i.imgur.com/yIwB2pe.png) z 16 stycznia tych co nie uczestniczą 
 
 ### Punktacja za ligę
 * Bronze league - 1 punkt
