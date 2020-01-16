@@ -25,6 +25,7 @@ weight: 1040
 * Bronze league - 1 punkt
 * Silver league - 2 punkty
 * Gold league - 5 punktów
+* punkty za dotarcie do ligi, tzn. punkty się nie sumują, jak dojdziemy do silver league to otrzymujemy 2 punkty, a nie trzy
 
 ### Punktacja za miejsce
 * Pierwsze miejsce - 8 punktów
