@@ -21,8 +21,8 @@ weight: 1040
 * na ostatnich zajęciach przydzielenie punktów (wymagana obecność, aby otrzymać punkty, ew. można na dyżurze 28 stycznia)
 * kod pisany w pythonie
 * w profilu należy jako szkołę dodać _Adam Mickiewicz University in Poznań_
-* [Nasz Leaderboard](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back/leaderboard?column=keyword&value=Adam%20Mickiewicz) (niestety trzeba przefiltrować po _Adam Mickiewicz_)
-* [Screenshot](https://i.imgur.com/yIwB2pe.png) z 16 stycznia tych co nie uczestniczą 
+* __Konieczne!__ w profilu należy jako __firmę__ dodać _PPR_UAM_
+* [Nasz Leaderboard](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back/leaderboard?column=keyword&value=Adam%20Mickiewicz) (niestety trzeba przefiltrować po _PPR_UAM_)
 
 ### Punktacja za ligę
 * Bronze league - 1 punkt
