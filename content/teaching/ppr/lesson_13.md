@@ -18,9 +18,10 @@ weight: 1040
 ### CodinGame challenge (dla chętnych)
 * [Coders Strike Back](https://www.codingame.com/ide/puzzle/coders-strike-back)
 * deadline 30 stycznia do ostatnich zajeć
-* na ostatnich zajęciach przydzielenie punktów
+* na ostatnich zajęciach przydzielenie punktów (wymagana obecność, aby otrzymać punkty, ew. można na dyżurze 28 stycznia)
 * kod pisany w pythonie
 * w profilu należy jako szkołę dodać _Adam Mickiewicz University in Poznań_
+* [Leaderboard dla UAM](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back/leaderboard?column=keyword&value=Adam%20Mickiewicz)
 
 ### Punktacja za ligę
 * Bronze league - 1 punkt
