@@ -1,32 +1,32 @@
-Student	Nick	Numer indeksu	Suma (001) c,c++	Monolit (ppr2) c,c++	Pierwszy if (if01) c,c++	Wartość bezwzględna (002) c,c++	Pierwsza pętla (ifpetla) c,c++	Max wzrostu (apr_wyk2-1) c,c++	Apples and oranges (ppr2a) c,c++	Ciągi liczb (ppr5) c,c++	Big boom! (ppr10a) c,c++	Odwróć tablicę (ppr_intro_10) c,c++	1, 10, 100, 1000... (003) c,c++	Rzutka gra 2 (ppr6) c,c++	Zestawienie (ppr7) c,c++	Wybory (ppr8) c,c++	Średnie (ppr10) c,c++	Pudełeczka (ppr12a) c,c++	Suma NWD (ppr11) c,c++	Osobistość (apr2) c,c++	Odwrócone podciągi (ppr7a) c,c++	Zlicz największą (ppr_intro_12) c,c++	Sortowanie przez wybieranie (selection_sort) c,c++	Silnia rekurencyjna (apr1cdf2011_3_1) c,c++	Silnie (ppr13) c,c++	Liczby Fibonacciego (ppr-fib) c,c++	Króliki (ppr14) c,c++	Rytuał (ppr16) c,c++	Liczba Roku (ppr17) c,c++	Palindromy (ppr18) c,c++	Spamer (ppr19) c,c++	Kalkulator (ppr21) c,c++	Loteria (ppr23) c,c++	Trójkąt (ppr24) c,c++	Sito Eratostenesa (ppr28) c,c++	Qsort (ppr25) c,c++	Kolokwium zadanie 1 (kol_1_2020) c,c++	Kolokwium zadanie 2 (kol_2_2020) c,c++	Kolokwium zadanie 3 (kol_3_2020) c,c++	Wartość bezwzględna (002) python	Pierwsza pętla (ifpetla) python	Max wzrostu (apr_wyk2-1) python	Ciągi liczb (ppr5) python	Big boom! (ppr10a) python	Odwróć tablicę (ppr_intro_10) python	Kolekcjoner stringów (kolekcjoner) python	Ksiazka telefoniczna (ksiazka) python	Czy jest permutacją? (czy_permutacja) python	Najdłuższy unikalny string (longest_uniq) python	Suma	Kolokwium
-Marcin Czerniak	452629	452629	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
-brak	452630	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	32	3
-Bartłomiej Grochowski	452645	452645	1	1	1	1	1	0	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	31	3
-Damian Judek	452665	452665	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	33.5	3
-Łukasz Traskowski	452680	452680	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0.5*	0	0	0	0	0	0	0	0	0	0	33	1.5
-Katsiaryna Laptsionak	452681	452681	1	1	1	1	1	1	1	1	1	1	0	0.5	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	30.5	0
-Bartosz Wawrzyniak	452698	452698	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
-Jakub Andrzejewski	452700	452700	1	1	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0	0.5	0.5	0.5	0.5	0.5	0	0	0.5	1	0.5	0.5	0	0	0.5	0.5	0	0.5	0.5	1	0.5	0	0.5	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	15.5	0
-Jakub Klupieć	452701	452701	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
-Michał Szczygieł	452709	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0.5*	0	0	0	0	0	0	0	0	0	0	27	2.5
-brak	452710	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	32	2
-Maria Nowaczyk	452714	452714	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	30.5	2
-Jakub Brodowiak	452723	452723	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
-Jan Majchrzycki	452731	452731	1	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	0	0	0	0	0	0	0	0	0	0	33.5	2.5
-Agata Parzybut	452738	452738	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0
-Mateusz Walas	452746	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	32	1
-Tomasz Adamczyk	458903	458903	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	33	3
-brak	458906	brak	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0
-Emil Gutkiewicz	459307	459307	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	0.5	0	1	0	0	0	0	0.5	1	0.5	0.5	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	25.0	2
-Adam Hącia	AdamHacia	444551	1	1	0.5	1	0.5	0.5	0.5	1	1	0.5	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	31.0	0
-Karolina Tonak	Karolina_Tonak	452676	0.5	0.5	0.5	0.5	0.5	0.5	0.5	1	0.5	0.5	0.5	0.5	1	1	1	1	1	0.5	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	26.0	0
-Mateusz Szorc	TheRevanpl	452712	1	1	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0
-Adrian Antkowiak	adrant3	452653	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0
-Dariusz Golomski	dargol	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	33	3
-brak	flagmenca	452652	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	34	3
-brak	jasiu	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Zofia Machalska	s452635	452635	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5	1	1	0	0	0	0	0	0	0	0	0	0	0	32.5	2
-Kacper Knuth	s452689	452689	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	0	0	0	0	0	0	0	0	0	0	34	2.5
-Zuzanna Witoch	s452692	452692	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0
-Adam Skorupa	s452717	452717	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	33	2
-Jan Nowakowski	sordlost	brak	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	33	3
+Student	Nick	Numer indeksu	Suma (001) c,c++	Monolit (ppr2) c,c++	Pierwszy if (if01) c,c++	Wartość bezwzględna (002) c,c++	Pierwsza pętla (ifpetla) c,c++	Max wzrostu (apr_wyk2-1) c,c++	Apples and oranges (ppr2a) c,c++	Ciągi liczb (ppr5) c,c++	Big boom! (ppr10a) c,c++	Odwróć tablicę (ppr_intro_10) c,c++	1, 10, 100, 1000... (003) c,c++	Parsowanie Markdown* (poza adjule) c,c++	Rzutka gra 2 (ppr6) c,c++	Zestawienie (ppr7) c,c++	Wybory (ppr8) c,c++	Średnie (ppr10) c,c++	Pudełeczka (ppr12a) c,c++	Suma NWD (ppr11) c,c++	Osobistość (apr2) c,c++	Odwrócone podciągi (ppr7a) c,c++	Zlicz największą (ppr_intro_12) c,c++	Sortowanie przez wybieranie (selection_sort) c,c++	Silnia rekurencyjna (apr1cdf2011_3_1) c,c++	Silnie (ppr13) c,c++	Liczby Fibonacciego (ppr-fib) c,c++	Króliki (ppr14) c,c++	Rytuał (ppr16) c,c++	Liczba Roku (ppr17) c,c++	Palindromy (ppr18) c,c++	Spamer (ppr19) c,c++	Kalkulator (ppr21) c,c++	Loteria (ppr23) c,c++	Trójkąt (ppr24) c,c++	Sito Eratostenesa (ppr28) c,c++	Qsort (ppr25) c,c++	Kolokwium zadanie 1 (kol_1_2020) c,c++	Kolokwium zadanie 2 (kol_2_2020) c,c++	Kolokwium zadanie 3 (kol_3_2020) c,c++	Wartość bezwzględna (002) python2,python3	Pierwsza pętla (ifpetla) python2,python3	Max wzrostu (apr_wyk2-1) python2,python3	Ciągi liczb (ppr5) python2,python3	Big boom! (ppr10a) python2,python3	Odwróć tablicę (ppr_intro_10) python2,python3	Kolekcjoner stringów (kolekcjoner) python2,python3	Ksiazka telefoniczna (ksiazka) python2,python3	Czy jest permutacją? (czy_permutacja) python2,python3	Najdłuższy unikalny string (longest_uniq) python2,python3	Hamming 1 (kppr3) python2,python3	Mnożenie macierzy (ppr_macierze) python2,python3	Generator permutacji (perm_gen) python2,python3	Złośliwy plik (zlosliwy) python2,python3	Korelacja Pearsona (ppr_pearson) python2,python3	Lotto (kogn2) python2,python3	Kolokwium zadanie 1, grupa 1CA (kol_1_ca) python2,python3	Kolokwium zadanie 4, grupa 1CG (kol_4_cg) python2,python3	Suma	Kolokwium
+Marcin Czerniak	452629	452629	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	52	3
+brak	452630	brak	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	0	46	3
+Bartłomiej Grochowski	452645	452645	1	1	1	1	1	0	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	49	3
+Damian Judek	452665	452665	1	1	1	1	1	1	1	1	1	1	0.5	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	48.5	3
+Łukasz Traskowski	452680	452680	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0.5*	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	48	1.5
+Katsiaryna Laptsionak	452681	452681	1	1	1	1	1	1	1	1	1	1	0	0	0.5	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0	41.5	0
+Bartosz Wawrzyniak	452698	452698	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	52	3
+Jakub Andrzejewski	452700	452700	1	1	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0	0	0.5	0.5	0.5	0.5	0.5	0	0	0.5	1	0.5	0.5	0.5	0.5	0.5	0.5	0	0.5	0.5	1	0.5	0	0.5	0.5	0	0	0	1	1	1	0.5	0.5	1	0.5	0.5	0	0	0	0	1	0	0	1	0	0	24.5	0
+Jakub Klupieć	452701	452701	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	49	3
+Michał Szczygieł	452709	brak	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	0	1	1	1	0	0	1	0	1	1	1	1	1	0	1	1	1	1	1	0.5*	1	1	1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	35	2.5
+brak	452710	brak	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	0	47	2
+Maria Nowaczyk	452714	452714	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0.5	1	1	1	0	1	1	1	1	1	1	1	1	1	0.5	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	0	1	46.0	2
+Jakub Brodowiak	452723	452723	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	52	3
+Jan Majchrzycki	452731	452731	1	1	1	1	1	1	1	1	1	1	0.5	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	51.5	2.5
+Agata Parzybut	452738	452738	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	0	0	1	1	0	1	0	1	1	1	1	1	1	1	1	0	0	0	1	0.5	0.5	0.5	0.5	0.5	1	0	0	1	0	0	1	0	0	0	0	0	34.5	0
+Mateusz Walas	452746	brak	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	49	1
+Tomasz Adamczyk	458903	458903	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	50	3
+brak	458906	brak	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0
+Emil Gutkiewicz	459307	459307	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	0	1	1	1	1	0.5	0	1	0	0	0	0	0.5	1	0.5	0.5	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	35.0	2
+Adam Hącia	AdamHacia	444551	1	1	0.5	1	0.5	0.5	0.5	1	1	0.5	0.5	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	0.5	0	0	0	1	0	1	0	0	0	0	0	0	0	34.5	0
+Karolina Tonak	Karolina_Tonak	452676	0.5	0.5	0.5	0.5	0.5	0.5	0.5	1	0.5	0.5	0.5	0	0.5	1	1	1	1	1	0.5	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26.5	0
+Mateusz Szorc	TheRevanpl	452712	1	1	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	12	0
+Adrian Antkowiak	adrant3	452653	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0
+Dariusz Golomski	dargol	brak	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	50	3
+brak	flagmenca	452652	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	52	3
+brak	jasiu	brak	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zofia Machalska	s452635	452635	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	44.5	2
+Kacper Knuth	s452689	452689	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	51	2.5
+Zuzanna Witoch	s452692	452692	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	0	45	0
+Adam Skorupa	s452717	452717	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0.5*	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	49	2.5
+Jan Nowakowski	sordlost	brak	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	49	3
