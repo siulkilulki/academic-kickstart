@@ -26,8 +26,9 @@ weight: 1040
 * Silver league - 2 punkty
 * Gold league - 5 punktów
 
-### Punktacja za miejsce (wśród grupy 1CA, 1CE)
+### Punktacja za miejsce
 * Pierwsze miejsce - 8 punktów
 * Drugie miejsce - 5 punktów
 * Trzecie miejsce - 3 punkty
 * Od 4 do 10 miejsca - 1 punkt
+* rywalizacja łącznie ze wszystkimi z grup 1CA, 1CE
