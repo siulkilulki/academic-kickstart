@@ -20,6 +20,7 @@ weight: 1040
 * deadline 30 stycznia do ostatnich zajeć
 * na ostatnich zajęciach przydzielenie punktów
 * kod pisany w pythonie
+* w profilu należy jako szkołę dodać _Adam Mickiewicz University in Poznań_
 
 ### Punktacja za ligę
 * Bronze league - 1 punkt
