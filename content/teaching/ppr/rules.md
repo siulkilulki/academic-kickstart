@@ -20,10 +20,10 @@ mathjax: ture
     * kolokwium przy komputerach
     * zadania do rozwiązania na adjule.pl
 * 60% zadania z adjule.pl
-    * 1 punkt za oddanie zadanie w terminie
+    * 1 punkt za oddanie zadania w terminie
     * 0.5 punkta za oddanie zadania po terminie
-* $score = 0.6 \times \frac{uzyskane\\_punkty\\_na\\_adjule + zad\\_dodatkowe}{liczba\\_zadan\\_na\\_adjule} + 0.4 \times \frac{punkty\\_z\\_kolokwium}{max\\_liczba\\_punktow} $
-    * punkty z zadan dodatkowych wliczaja się do ${uzyskane\\_punkty\\_na\\_adjule}$, ale nie wliczają się do ${liczba\\_zadan\\_na\\_adjule}$ (ich liczba nie zwiększa mianownika)
+* $score = 0.6 \times \frac{punkty\\_z\\_adjule + zad\\_dodatkowe}{liczba\\_zadan\\_na\\_adjule} + 0.4 \times \frac{punkty\\_z\\_kolokwium}{max\\_liczba\\_punktow} $
+    * punkty z zadan dodatkowych wliczaja się do ${punkty\\_z\\_adjule}$, ale nie wliczają się do ${liczba\\_zadan\\_na\\_adjule}$ (ich liczba nie zwiększa mianownika)
 
 ## Ocena końcowa
 * [90%, 100%] - bardzo dobry (5.0)

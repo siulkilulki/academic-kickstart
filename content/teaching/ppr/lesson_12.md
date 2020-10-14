@@ -4,7 +4,7 @@ linktitle: Tips 1-2
 toc: true
 type: docs
 date: "2019-10-02T00:00:00+01:00"
-draft: false
+draft: true
 menu:
   ppr:
     name: Zajęcia 12
