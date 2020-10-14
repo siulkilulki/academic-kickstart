@@ -18,12 +18,12 @@ organizations:
   url: "http://www.wmi.amu.edu.pl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently my main research interest is focused around semantic simlarity searches in text.
+bio: My main research interest is focused around semantic simlarity searches in text.
 
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Information Extraction
 - Go game
 
 education:
