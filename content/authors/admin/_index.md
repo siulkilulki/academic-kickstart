@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Currently my main research interest is focused around semantic simlarity searches in text. I enjoy playing [Go](https://www.youtube.com/watch?v=QyfWChDhtu0). I am member of UAM [NLP group](http://zpjn.wmi.amu.edu.pl).
+My main research interest is focused around Information Extraction from rich documents. I enjoy playing [Go](https://www.youtube.com/watch?v=QyfWChDhtu0). I am in UAM [AI department](http://ai.wmi.amu.edu.pl) in [Language Modeling group](https://ai.wmi.amu.edu.pl/groups/lm/).
