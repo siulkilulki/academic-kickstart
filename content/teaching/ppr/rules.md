@@ -42,7 +42,6 @@ mathjax: ture
    * skutkuje to 0 punktów za całe kolokwium
 * 3 zadania z python'a i 3 zadania z c/c++ na adjule.pl
 * Pełna liczba punktów zostanie przyznana tylko jeśli zadanie przejdzie przez Sprawdzarkę i spełni wymogi z opisu zadania.
-* Możliwe jest otrzymanie punktów cząstkowych za zadanie.
    
 ## Zadania dodatkowe
 * Sposób rozwiązania zadań dodatkowych tłumaczony jest na zajęciach
