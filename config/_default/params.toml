@@ -104,7 +104,7 @@ directions = "Room B2-34, The Faculty of Mathematics and Computer Science, Unive
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Tuesday 12:00 to 13:00", "Thursday 11:45 to 12:45"]
+office_hours = ["Tuesday 12:00 to 13:00", "Fridays 18:00 to 19:00 (please let me know a day in advance on MS Teams if you want to meet)"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"

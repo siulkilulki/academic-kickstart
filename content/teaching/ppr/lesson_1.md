@@ -20,6 +20,7 @@ weight: 30
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) doskonałe dla totalnie zielonych, ale bez przyszłości
 * [Notepad++](https://notepad-plus-plus.org/) popularny edytor plików, tylko dla Windows'a
 * [Geany](https://www.geany.org/) popularny edytor plików 
+* [Ideone](https://ideone.com/) kompilator i edytor online z poziomu przeglądarki
 ### Sensowne powszechnie używane IDE
 * [CLion](https://www.jetbrains.com/clion/) (darmowa licencja dla studentów [tutaj](https://www.jetbrains.com/community/education/#students)) tylko do C/C++
 * [PyCharm](https://www.jetbrains.com/pycharm/) (darmowa licencja dla studentów [tutaj](https://www.jetbrains.com/community/education/#students)) tylko do Python'a, na drugą część semestru
@@ -40,7 +41,7 @@ weight: 30
 
 ## Podobne wprowadzenie do C/C++ jak te z zajęć
 * [Intro](https://eduwiki.wmi.amu.edu.pl/pms/ppr/intro)
-### Zadania z C/C++ do 22 października:
-<!--22.10.20 c,c++-->
+### Zadania z C/C++ do 29 października:
+<!--29.10.20 c,c++-->
 * [Suma](https://adjule.pl/groups/ogolny/problems/001)
 * [Wartość bezwględna](https://adjule.pl/groups/ogolny/problems/002)
