@@ -18,6 +18,6 @@ menu:
     weight: 1
 ---
 
-## [Grupa nr 11 (1LA)](files/oceny-1la.tsv)
-## [Grupa nr 15 (1LE)](files/oceny-1le.tsv)
+## [Grupa nr 11 (1LA), 10:00](files/oceny-1la.tsv)
+## [Grupa nr 15 (1LE), 8:15](files/oceny-1le.tsv)
 
