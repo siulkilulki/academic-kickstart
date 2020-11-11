@@ -32,7 +32,7 @@ mathjax: ture
 * [Big boom](https://adjule.pl/groups/ppr1ca2019/problems/ppr10a) (należy napisać funkcję do wypisywania określonej liczby, określonych znaków)
 * [Odwróć tablicę](https://adjule.pl/groups/ppr1ca2019/problems/ppr_intro_10)
 
-### Zadania dodatkowe z C/C++ do 12 listopada do końca następnych zajęć:
+### Zadanie dodatkowe z C/C++ do 12 listopada do końca następnych zajęć:
 <!--12.11.20 c,c++-->
 *  [1, 10, 100, 1000...](https://adjule.pl/groups/ppr1ca2019/problems/003)
   * w puli do zdobycia jest 10 punktów
