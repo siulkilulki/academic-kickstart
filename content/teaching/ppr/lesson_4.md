@@ -24,6 +24,8 @@ mathjax: tur
 * [Rzutka gra 2](https://adjule.pl/groups/ppr1ca2019/problems/ppr6)
 * [Zestawienie](https://adjule.pl/groups/ppr1ca2019/problems/ppr7)
 * [Wybory](https://adjule.pl/groups/ppr1ca2019/problems/ppr8)
+### Zadania z C/C++ do 26 listopada
+<!--26.11.20 c,c++-->
 * [Średnie](https://adjule.pl/groups/ppr1ca2019/problems/ppr10)
 * [Pudełeczka](https://adjule.pl/groups/ppr1ca2019/problems/ppr12a)
 * [Suma NWD](https://adjule.pl/groups/ppr1ca2019/problems/ppr11)
