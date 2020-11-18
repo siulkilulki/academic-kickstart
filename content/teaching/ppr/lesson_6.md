@@ -21,6 +21,8 @@ mathjax: tur
 ### Zadania z C/C++ do 21 listopada
 <!--21.11.19 c,c++-->
 
+* [Silnie rekurencyjnie] (https://adjule.pl/groups/ppr1ca2019/problems/apr1cdf2011_3_1)
+* [Silnie] (https://adjule.pl/groups/ppr1ca2019/problems/ppr13)
 * [Liczby fibonacciego] (https://adjule.pl/groups/ppr1ca2019/problems/ppr-fib)
 * [Króliki] (https://adjule.pl/groups/ppr1ca2019/problems/ppr14)
 * [Rytuał] (https://adjule.pl/groups/ppr1ca2019/problems/ppr16)
