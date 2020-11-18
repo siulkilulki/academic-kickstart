@@ -22,6 +22,7 @@ mathjax: tur
 * Dynamic memory management [kod](../files/dynamic_memory.c)
 * Przypomnieć sobie [struktury](https://eduwiki.wmi.amu.edu.pl/pms/ppr/c/datatypes#Structures)
 * Arrow operator (kod z zajęć będzie tutaj)
+* Może ruszymy linked list
 
 ### Zadania z C/C++ do 26 listopada
 <!--26.11.19 c,c++-->
