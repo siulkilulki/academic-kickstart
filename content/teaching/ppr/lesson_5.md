@@ -21,12 +21,15 @@ mathjax: tur
 ### Dynamiczne zarządzanie pamięcią i arrow operator
 * Dynamic memory management [kod](../files/dynamic_memory.c)
 * Przypomnieć sobie [struktury](https://eduwiki.wmi.amu.edu.pl/pms/ppr/c/datatypes#Structures)
-* Arrow operator (kod z zajęć będzie tutaj)
+* Arrow operator [kod](../files/structures.c)
 
 ### Zadania z C/C++ do 26 listopada
-<!--26.11.19 c,c++-->
+<!--26.11.20 c,c++-->
 
 * [Odwrócone podciągi](https://adjule.pl/groups/ppr1ca2019/problems/ppr7a)
+* [Stosik globalnie](https://adjule.pl/groups/ppr1la2020/problems/ppr35_part1)
+
+### Zadania z C/C++ do 3 grudnia
+<!--03.12.20 c,c++-->
 * [Zlicz największą](https://adjule.pl/groups/ppr1ca2019/problems/ppr_intro_12)
 * [Sortowanie przez wybieranie](https://adjule.pl/groups/ppr1ca2019/problems/selection_sort) (pomocniczo można zrobić zadanie [Zamiana zmiennych](https://adjule.pl/groups/ppr1ca2019/problems/swap))
-* [Stosik globalnie](https://adjule.pl/groups/ppr1la2020/problems/ppr35_part1)
