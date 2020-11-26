@@ -1,29 +1,29 @@
-Student	Nick	Numer indeksu	Suma (001, Obowiązkowe) c,c++	Wartość bezwzględna (002, Obowiązkowe) c,c++	Monolit (ppr2, Obowiązkowe) c,c++	Pierwszy if (if01, Obowiązkowe) c,c++	Pierwsza pętla (ifpetla, Obowiązkowe) c,c++	Max wzrostu (apr_wyk2-1, Obowiązkowe) c,c++	Apples and oranges (ppr2a, Obowiązkowe) c,c++	Ciągi liczb (ppr5, Obowiązkowe) c,c++	Big boom! (ppr10a, Obowiązkowe) c,c++	Odwróć tablicę (ppr_intro_10, Obowiązkowe) c,c++	1, 10, 100, 1000... (003, Dodatkowe) c,c++	Rzutka gra 2 (ppr6, Obowiązkowe) c,c++	Zestawienie (ppr7, Obowiązkowe) c,c++	Wybory (ppr8, Obowiązkowe) c,c++	Średnie (ppr10, Obowiązkowe) c,c++	Pudełeczka (ppr12a, Obowiązkowe) c,c++	Suma NWD (ppr11, Obowiązkowe) c,c++	Osobistość (apr2, Dodatkowe) c,c++	Obowiązkowe	Dodatkowe
-Adam Cherek	Adam00Ch	464922	1	1	1	1	1	1	1	1	1	1	2.0*	1	1	1	1	0	0	0	14	2.0
-Aleksandra Adamczak	Aleksandra_Adamczak	464973	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	10	0
-Bartosz Bronikowski	Bartosz_Bronikowski	464852	1	1	1	1	1	1	1	1	1	1	2.0*	1	1	1	1	1	0	0	15	2.0
-Ilya Dziamidchyk	Ilya_Dziamidchyk	464989	1	1	1	1	1	1	1	1	1	1	2.0*	0	0	0	0	0	0	0	10	2.0
-Tymoteusz Czeszun	InkoG	brak	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-Justyna Tomaszewska	Justyna_Tomaszewska	brak	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
-Karol Filipiak	Karfil	464905	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	0	14	0
-Norbert Bujny	Norbert_Bujny	462068	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	16	1
-Konrad Przybysz	Obi	462027	1	1	1	1	1	1	1	1	1	1	2.0*	1	1	1	0	1	0	0	14	2.0
-Stanisław Brzuska	StanislawBrzuska	464898	1	1	1	1	1	1	1	1	1	0.5	0	1	1	1	0	0	0	0	12.5	0
-Wiktor Duda	Wiktord	464969	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	13	0
-Yahor Hyhoryk	Yahor_Hyhoryk	464988	1	1	1	1	1	1	1	1	1	1	2.0*	1	0	0	0	0	0	1	11	3.0
-Yurii Borodiukh	borodiukh	464873	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	13	0
-Franciszek Czajka	fczajka	464861	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	16	0
-Filip Olesiński	filole3	464904	1	1	0	1	1	0.5	0	1	0	1	0	0	1	0	0	0	0	0	7.5	0
-Hanna Florek	frytka19	464865	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	13	0
-Jędrzej Biesek	jbiesek	464921	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	13	0
-Justyna Dygulska	jusdyg	434843	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	13	0
-brak	mciesiolka	brak	0.5	0.5	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	12.0	0
-Mateusz Cwojdziński	mcwojdzinski	464890	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	13	0
-Patrycja Całkowska	patcal	464889	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	0	0	12	0
-Szymon Bartanowicz	sbartanowicz	464937	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	0	14	0
-Teresa Alexandrowicz	teresa_alexandrowicz	463041	1	1	1	1	1	1	1	1	1	0	0	0	1	0	0	0	0	0	10	0
-Wiktor Borowski	travvwvv	464859	1	1	1	1	1	1	1	1	1	1	2.0*	1	1	1	1	1	1	1	16	3.0
-Kacper Cichy	vvkapi	462021	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0	0	0.5	0
-brak	wiktoriablaszyk	450734	1	1	1	0.5	0.5	0.5	1	1	1	1	1	1	1	1	1	1	1	1	14.5	2
-Mateusz Czapiewski	zaPPer	463040	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	10	0
-Zuzanna Rachuba	zuziarachuba	464924	1	1	1	1	1	0.5	1	1	0	1	0	1	0	0	0	0	0	0	9.5	0
+Student	Nick	Numer indeksu	Suma (001, Obowiązkowe) c,c++	Wartość bezwzględna (002, Obowiązkowe) c,c++	Monolit (ppr2, Obowiązkowe) c,c++	Pierwszy if (if01, Obowiązkowe) c,c++	Pierwsza pętla (ifpetla, Obowiązkowe) c,c++	Max wzrostu (apr_wyk2-1, Obowiązkowe) c,c++	Apples and oranges (ppr2a, Obowiązkowe) c,c++	Ciągi liczb (ppr5, Obowiązkowe) c,c++	Big boom! (ppr10a, Obowiązkowe) c,c++	Odwróć tablicę (ppr_intro_10, Obowiązkowe) c,c++	1, 10, 100, 1000... (003, Dodatkowe) c,c++	Rzutka gra 2 (ppr6, Obowiązkowe) c,c++	Zestawienie (ppr7, Obowiązkowe) c,c++	Wybory (ppr8, Obowiązkowe) c,c++	Średnie (ppr10, Obowiązkowe) c,c++	Pudełeczka (ppr12a, Obowiązkowe) c,c++	Suma NWD (ppr11, Obowiązkowe) c,c++	Osobistość (apr2, Dodatkowe) c,c++	Odwrócone podciągi (ppr7a, Obowiązkowe) c,c++	Stosik globalnie (ppr35_part1, Obowiązkowe) c,c++	Zlicz największą (ppr_intro_12, Obowiązkowe) c,c++	Sortowanie przez wybieranie (selection_sort, Obowiązkowe) c,c++	Obowiązkowe	Dodatkowe
+Adam Cherek	Adam00Ch	464922	1	1	1	1	1	1	1	1	1	1	1*	1	1	1	1	1	1	1	1	1	1	0	19	3.0
+Aleksandra Adamczak	Aleksandra_Adamczak	464973	1	1	1	1	1	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	11	0
+Bartosz Bronikowski	Bartosz_Bronikowski	464852	1	1	1	1	1	1	1	1	1	1	1*	1	1	1	1	1	0	0	1	0	0	0	16	2.0
+Ilya Dziamidchyk	Ilya_Dziamidchyk	464989	1	1	1	1	1	1	1	1	1	1	1*	1	1	1	1	0	1	1	0	0	0	0	15	3.0
+Tymoteusz Czeszun	InkoG	brak	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Justyna Tomaszewska	Justyna_Tomaszewska	brak	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+Karol Filipiak	Karfil	464905	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	0	19	0
+Norbert Bujny	Norbert_Bujny	462068	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	0	0	18	1
+Konrad Przybysz	Obi	462027	1	1	1	1	1	1	1	1	1	1	1*	1	1	1	1	1	1	0	1	1	1	1	20	2.0
+Stanisław Brzuska	StanislawBrzuska	464898	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	0	0	0	16	0
+Wiktor Duda	Wiktord	464969	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	0	0	0	15	0
+Yahor Hyhoryk	Yahor_Hyhoryk	464988	1	1	1	1	1	1	1	1	1	1	1*	1	1	1	1	1	1	1	0	0	0	0	16	3.0
+Yurii Borodiukh	borodiukh	464873	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	14	0
+Franciszek Czajka	fczajka	464861	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	18	0
+Filip Olesiński	filole3	464904	1	1	0	1	1	0.5	0	1	0	1	0	1	1	0.5	0	1	0	0	0	0	0	0	10.0	0
+Hanna Florek	frytka19	464865	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	0	0	0	16	0
+Jędrzej Biesek	jbiesek	464921	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	18	0
+Justyna Dygulska	jusdyg	434843	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	0	0	15	0
+brak	mciesiolka	brak	0.5	0.5	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	0	1	0	0	0	15.0	0
+Mateusz Cwojdziński	mcwojdzinski	464890	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	1	0	1	0	15	0
+Patrycja Całkowska	patcal	464889	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	0	17	0
+Szymon Bartanowicz	sbartanowicz	464937	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	0	0	0	0	15	0
+Teresa Alexandrowicz	teresa_alexandrowicz	463041	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	11	0
+Wiktor Borowski	travvwvv	464859	1	1	1	1	1	1	1	1	1	1	1*	1	1	1	1	1	1	1	0	0	0	0	16	3.0
+Kacper Cichy	vvkapi	462021	0	0	0	0	0	0	0	0.5	0	0	0	1	0.5	0.5	0	0	0	0	0	0	0	0	2.5	0
+brak	wiktoriablaszyk	450734	1	1	1	0.5	0.5	0.5	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	16.5	2
+Mateusz Czapiewski	zaPPer	463040	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	0	0	0	0	0	0	13	0
+Zuzanna Rachuba	zuziarachuba	464924	1	1	1	1	1	0.5	1	1	0	1	0	1	1	0	1	0	0	0	0	0	0	0	11.5	0
