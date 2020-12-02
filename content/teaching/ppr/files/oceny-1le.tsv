@@ -1,28 +1,28 @@
-Student	Nick	Numer indeksu	Suma (001, Obowiązkowe) c,c++	Wartość bezwzględna (002, Obowiązkowe) c,c++	Monolit (ppr2, Obowiązkowe) c,c++	Pierwszy if (if01, Obowiązkowe) c,c++	Pierwsza pętla (ifpetla, Obowiązkowe) c,c++	Max wzrostu (apr_wyk2-1, Obowiązkowe) c,c++	Apples and oranges (ppr2a, Obowiązkowe) c,c++	Ciągi liczb (ppr5, Obowiązkowe) c,c++	Big boom! (ppr10a, Obowiązkowe) c,c++	Odwróć tablicę (ppr_intro_10, Obowiązkowe) c,c++	1, 10, 100, 1000... (003, Dodatkowe) c,c++	Rzutka gra 2 (ppr6, Obowiązkowe) c,c++	Zestawienie (ppr7, Obowiązkowe) c,c++	Wybory (ppr8, Obowiązkowe) c,c++	Średnie (ppr10, Obowiązkowe) c,c++	Pudełeczka (ppr12a, Obowiązkowe) c,c++	Suma NWD (ppr11, Obowiązkowe) c,c++	Osobistość (apr2, Dodatkowe) c,c++	Odwrócone podciągi (ppr7a, Obowiązkowe) c,c++	Stosik globalnie (ppr35_part1, Obowiązkowe) c,c++	Zlicz największą (ppr_intro_12, Obowiązkowe) c,c++	Sortowanie przez wybieranie (selection_sort, Obowiązkowe) c,c++	Obowiązkowe	Dodatkowe
-Jakub Klupieć	452701	452701	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	19	2
-Kamil Polaczek	463021	1	1	1	1	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	7	0
-Konrad Przysowa	464833	464833	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	19	1
-Dawid Pylak	464891	464891	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	0	0	0	16	0
-Mateusz Piwowarski	464913	464913	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	20	2
-Anton Pazniak	AntonPazniak	464895	1	1	1	1	1	1	1	1	1	1	0*	1	1	1	1	1	0	1	1	0	1	0	17	1.5
-Antoni Paluszyński	Antoni_Paluszynski	464968	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	18	2
-Bartłomiej Stępkowski	BartekStepkowski	464946	1	1	1	1	1	1	1	1	1	0.5	0	0	0	0	0	0	0	0	1	0	0	0	10.5	0
-Jakub Prus	Jakub_Prus	464970	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	0	17	0
-Kamil Spychała	Kamil_S	464963	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	0	17	0
-Marcelina Nowicka	MarcelinaNowcika_s464920	464920	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	18	0
-Olga Kwoczak	Olga.Kwoczak	456501	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0
-Wiktor Dudek	Soft	469065	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	18	2
-Gabriela Piekarska	gabing17	464876	1	1	1	1	1	1	1	1	1	1	0	1	1	0.5	0	1	0	0	1	0	1	0	15.5	0
-Jan Pieścik	jan.piescik	462004	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	14	0
-Justyna Dygulska	jusdyg	434843	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	0	0	1	0	0	0	15	0
-Kacper Pękalski	kacper_pekalski	464831	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	19	1
-Krzysztof Raczyński	krzysztofraczynski_464962	464962	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	18	0
-kuba sobkiewicz	kuba_sobkiewicz	464960	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	0	0	0	16	0
-Mateusz Nowe	matnow31	464877	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	20	1
-Paweł Rostecki	rostecki.pawel	464956	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	0	18	0
-Bogdan Panov	s464874	464874	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	20	2
-Filip Nowicki	s464915	464915	1	1	1	1	1	0.5	1	0	0.5	1	0	1	1	1	1	1	1	0	1	0	0	0	15.0	0
-Daniil Piatrouski	s464925	464925	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	0	1	0	0	0	15	0
-Tomasz Rybarczyk	tomry	386988	1	1	1	1	0	0	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	10	0
-Veronika Polevara	vpolevara	464986	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	1	0	1	17	1
-Zuzanna Rachuba	zuziarachuba	464924	1	1	1	1	1	0.5	1	1	0	1	0	1	1	0	1	0	0	0	0	0	0	0	11.5	0
+Student	Nick	Numer indeksu	Suma (001, Obowiązkowe) c,c++	Wartość bezwzględna (002, Obowiązkowe) c,c++	Monolit (ppr2, Obowiązkowe) c,c++	Pierwszy if (if01, Obowiązkowe) c,c++	Pierwsza pętla (ifpetla, Obowiązkowe) c,c++	Max wzrostu (apr_wyk2-1, Obowiązkowe) c,c++	Apples and oranges (ppr2a, Obowiązkowe) c,c++	Ciągi liczb (ppr5, Obowiązkowe) c,c++	Big boom! (ppr10a, Obowiązkowe) c,c++	Odwróć tablicę (ppr_intro_10, Obowiązkowe) c,c++	1, 10, 100, 1000... (003, Dodatkowe) c,c++	Rzutka gra 2 (ppr6, Obowiązkowe) c,c++	Zestawienie (ppr7, Obowiązkowe) c,c++	Wybory (ppr8, Obowiązkowe) c,c++	Średnie (ppr10, Obowiązkowe) c,c++	Pudełeczka (ppr12a, Obowiązkowe) c,c++	Suma NWD (ppr11, Obowiązkowe) c,c++	Osobistość (apr2, Dodatkowe) c,c++	Odwrócone podciągi (ppr7a, Obowiązkowe) c,c++	Stosik globalnie (ppr35_part1, Obowiązkowe) c,c++	Zlicz największą (ppr_intro_12, Obowiązkowe) c,c++	Sortowanie przez wybieranie (selection_sort, Obowiązkowe) c,c++	Rytuał (ppr16, Obowiązkowe) c,c++	Liczba Roku (ppr17, Obowiązkowe) c,c++	Palindromy (ppr18, Obowiązkowe) c,c++	Spamer (ppr19, Obowiązkowe) c,c++	Obowiązkowe	Dodatkowe
+Jakub Klupieć	452701	452701	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0*	1	0	1	1	1	1	1	1	23	2
+Kamil Polaczek	463021	1	1	1	1	1	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0
+Konrad Przysowa	464833	464833	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	24	1
+Dawid Pylak	464891	464891	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0.5	0	1	1	1	1	0	0	1	0	20.5	0
+Mateusz Piwowarski	464913	464913	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1*	1	1	1	1	1	1	1	1	24	2
+Anton Pazniak	AntonPazniak	464895	1	1	1	1	1	1	1	1	1	1	0.0*	1	1	1	1	1	0.5	0*	1	1	1	1	0	0	0	0	19.5	1.0
+Antoni Paluszyński	Antoni_Paluszynski	464968	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1?	1	1	1	1	0	0	0	0	20	2
+Bartłomiej Stępkowski	BartekStepkowski	464946	1	1	1	1	1	1	1	1	1	0.5	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	10.5	0
+Jakub Prus	Jakub_Prus	464970	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	0	0	0	0	0	18	0
+Kamil Spychała	Kamil_S	464963	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	1	1	0	0	0	0	19	0
+Marcelina Nowicka	MarcelinaNowcika_s464920	464920	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	22	0
+Olga Kwoczak	Olga.Kwoczak	456501	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0
+Wiktor Dudek	Soft	469065	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0*	1	1	0	0	0	0	0	0	18	2
+Gabriela Piekarska	gabing17	464876	1	1	1	1	1	1	1	1	1	1	0	1	1	0.5	0.5	1	0.5	0	1	1	1	0	0	0	0	0	17.5	0
+Jan Pieścik	jan.piescik	462004	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	17	0
+Justyna Dygulska	jusdyg	434843	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	0	1	1	1	1	0	0	0	0	19	0
+Kacper Pękalski	kacper_pekalski	464831	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0*	1	1	1	1	0	0	0	0	20	2
+Krzysztof Raczyński	krzysztofraczynski_464962	464962	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	22	0
+kuba sobkiewicz	kuba_sobkiewicz	464960	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	16	0
+Mateusz Nowe	matnow31	464877	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0*	1	1	1	1	1	1	0	0	22	1
+Paweł Rostecki	rostecki.pawel	464956	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	20	0
+Bogdan Panov	s464874	464874	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0*	1	1	1	1	1	1	1	1	24	2
+Filip Nowicki	s464915	464915	1	1	1	1	1	0.5	1	0.5	0.5	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	0	0	20.5	0
+Daniil Piatrouski	s464925	464925	1	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	0	1	0	0	0	0	0	0	0	15	0
+Tomasz Rybarczyk	tomry	386988	1	1	1	1	0	0	1	1	1	1	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	11	0
+Veronika Polevara	vpolevara	464986	1	1	1	1	1	1	0.5	1	1	1	0	1	1	1	1	1	0	0*	1	1	1	1	0	0	0	0	18.5	1
+Zuzanna Rachuba	zuziarachuba	464924	1	1	1	1	1	0.5	1	1	0	1	0	1	1	0	1	0.5	0	0	0	0	0	0	0	0	0	0	12.0	0
