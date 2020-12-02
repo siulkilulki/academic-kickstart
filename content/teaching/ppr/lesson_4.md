@@ -26,8 +26,11 @@ mathjax: tur
 * [Wybory](https://adjule.pl/groups/ppr1ca2019/problems/ppr8)
 ### Zadania z C/C++ do 26 listopada
 <!--26.11.20 c,c++-->
-* [Średnie](https://adjule.pl/groups/ppr1ca2019/problems/ppr10)
 * [Pudełeczka](https://adjule.pl/groups/ppr1ca2019/problems/ppr12a)
+
+### Zadanie z C/C++ do 3 grudnia
+<!--03.12.20 c,c++-->
+* [Średnie](https://adjule.pl/groups/ppr1ca2019/problems/ppr10)
 * [Suma NWD](https://adjule.pl/groups/ppr1ca2019/problems/ppr11)
 
 ### Zadanie dodatkowe z C/C++ do 26 listopada do następnych zajęć
