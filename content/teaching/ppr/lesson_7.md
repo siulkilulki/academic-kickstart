@@ -16,7 +16,7 @@ weight: 800
 mathjax: tur
 ---
 ### Zadania z C/C++ do 17 grudnia
-<!--28.11.19 c,c++-->
+<!--17.12.20 c,c++-->
 
 #### Rekurencja
 * [Silnie rekurencyjnie](https://adjule.pl/groups/ppr1ca2019/problems/apr1cdf2011_3_1)
@@ -25,12 +25,5 @@ mathjax: tur
 * [Króliki](https://adjule.pl/groups/ppr1ca2019/problems/ppr14)
 
 #### Lista jednokierunkowa
-* [Stosik strukturalnie](https://adjule.pl/admin/problems/ppr35_part2)
+* [Stosik strukturalnie](https://adjule.pl/groups/ppr1le2020/problems/ppr35_part2)
   * należy zbudować listę jednokierunkową za pomocą struktur, wskaźników oraz dynamicznie alokować pamięć
-<!-- dla pythona -->
-
-<!-- * [Kalkulator](https://adjule.pl/groups/ppr1ca2019/problems/ppr21) -->
-<!-- * [Loteria](https://adjule.pl/groups/ppr1ca2019/problems/ppr23) -->
-<!-- * [Trójkąt](https://adjule.pl/groups/ppr1ca2019/problems/ppr24) -->
-<!-- * [Sito Eratostenesa](https://adjule.pl/groups/ppr1ca2019/problems/ppr28) -->
-<!-- * [Qsort](https://adjule.pl/groups/ppr1ca2019/problems/ppr25) -->

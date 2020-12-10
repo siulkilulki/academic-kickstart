@@ -26,3 +26,11 @@ https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 * [Ciągi liczb] (https://adjule.pl/groups/ppr1ce2019/problems/ppr5)
 * [Big boom] (https://adjule.pl/groups/ppr1ce2019/problems/ppr10a)
 * [Odwróć tablicę] (https://adjule.pl/groups/ppr1ca2019/problems/ppr_intro_10) (użyć funkcji *reversed*)
+
+<!-- dla pythona -->
+
+<!-- * [Kalkulator](https://adjule.pl/groups/ppr1ca2019/problems/ppr21) -->
+<!-- * [Loteria](https://adjule.pl/groups/ppr1ca2019/problems/ppr23) -->
+<!-- * [Trójkąt](https://adjule.pl/groups/ppr1ca2019/problems/ppr24) -->
+<!-- * [Sito Eratostenesa](https://adjule.pl/groups/ppr1ca2019/problems/ppr28) -->
+<!-- * [Qsort](https://adjule.pl/groups/ppr1ca2019/problems/ppr25) -->
