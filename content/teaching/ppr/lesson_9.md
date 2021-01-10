@@ -18,6 +18,8 @@ weight: 1000
 ### Cheatsheet
 https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 
+### Powtórkowe 3 zadanie z kolokwium (punktowane jak reszta zadań z zajęć)
+* [Stosik z usuwaniem](https://adjule.pl/groups/ppr1la2019/problems/kol_dj_c_zad_3_2020)
 ### Zadania z python'a do 14 stycznia:
 <!--12.12.19 python-->
 * [Wartość bezwględna](https://adjule.pl/groups/ppr1la2020/problems/002) (użyć funkcji _abs_)
