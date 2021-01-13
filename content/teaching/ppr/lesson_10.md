@@ -1,13 +1,13 @@
 ---
-title: Zajęcia 10
+title: Zajęcia 11
 linktitle: Tips 1-2
 toc: true
 type: docs
 date: "2019-10-02T00:00:00+01:00"
-draft: true
+draft: false
 menu:
   ppr:
-    name: Zajęcia 10
+    name: Zajęcia 11
     parent: Zajęcia
     weight: 110
 
@@ -27,8 +27,8 @@ https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0
 * [czytanie ze standardowego wejścia](../files/read.py)
 * [słowniki i zbiory](../files/dictionary_ex.py)
 
-### Zadania z python'a do 19 grudnia:
-<!--19.12.19 python-->
+### Zadania z python'a do 21 stycznia:
+<!--21.01.20 python-->
 * [Kolekcjoner stringów](https://adjule.pl/groups/ppr1ce2019/problems/kolekcjoner)
 * [Książka telefoniczna](https://adjule.pl/groups/ppr1ce2019/problems/ksiazka)
 * [Czy jest permutacją?](https://adjule.pl/groups/ppr1ce2019/problems/czy_permutacja)
