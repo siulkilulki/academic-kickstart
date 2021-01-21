@@ -17,7 +17,7 @@ weight: 1020
 ### Trochę o iteratorach i generatorach
 * [link](http://book.pythontips.com/en/latest/generators.html)
 
-### Zadania z python'a do 10 stycznia:
+### Zadania z python'a do 28 stycznia:
 <!--28.01.21 python-->
 * [Hamming](https://adjule.pl/groups/ppr1ce2019/problems/kppr3)
 * [Mnożenie macierzy](https://adjule.pl/groups/ppr1ce2019/problems/ppr_macierze)
