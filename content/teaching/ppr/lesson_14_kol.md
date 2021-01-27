@@ -1,5 +1,5 @@
 ---
-title: Zajęcia 14
+title: Zajęcia 15
 linktitle: Tips 1-2
 toc: true
 type: docs
@@ -7,7 +7,7 @@ date: "2019-10-02T00:00:00+01:00"
 draft: true
 menu:
   ppr:
-    name: Zajęcia 14 - kolokwium
+    name: Zajęcia 15 - kolokwium
     parent: Zajęcia
     weight: 150
 
