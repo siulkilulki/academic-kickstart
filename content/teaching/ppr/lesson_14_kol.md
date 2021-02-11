@@ -22,7 +22,7 @@ mathjax: tur
 * [Zadanie 2](https://adjule.pl/groups/ppr1ce2019/problems/kol_py_2_2020)
 * [Zadanie 3](https://adjule.pl/groups/ppr1ce2019/problems/kol_py_3_2020)
 
-<!-- #### Zadania dla grupy 1LA -->
-<!-- * [Zadanie 1](https://adjule.pl/groups/ppr1ca2019/problems/kol_py_1_2020) -->
-<!-- * [Zadanie 2](https://adjule.pl/groups/ppr1ca2019/problems/kol_py_2_2020) -->
-<!-- * [Zadanie 3](https://adjule.pl/groups/ppr1ca2019/problems/kol_py_3_2020) -->
+#### Zadania dla grupy 1LA
+* [Zadanie 1](https://adjule.pl/groups/ppr1ca2019/problems/kol_py_1_2020)
+* [Zadanie 2](https://adjule.pl/groups/ppr1ca2019/problems/kol_py_2_2020)
+* [Zadanie 3](https://adjule.pl/groups/ppr1ca2019/problems/kol_py_3_2020)
